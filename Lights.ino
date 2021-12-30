@@ -61,7 +61,7 @@ float pongStepSize = 1.0;
 bool pongDirection = false;
 
 // Supply voltage sensing related
-#define SENSE_PIN (A0)      // evebtually not used, kept in code sinse physical connection is there.
+#define SENSE_PIN (A0)      // eventually not used, kept in code sinse physical connection is there.
 
 void setup() {
 
